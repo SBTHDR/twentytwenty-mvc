@@ -8,5 +8,10 @@
             "email": "subrata.halder13d@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-r": {
+            "app\\": "./"
+        }
+    },
     "require": {}
 }
