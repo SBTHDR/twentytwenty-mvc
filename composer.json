@@ -1,0 +1,12 @@
+{
+    "name": "sbthdr/twentytwenty-mvc",
+    "description": "Simple custom MVC framework in PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SBTHDR",
+            "email": "subrata.halder13d@gmail.com"
+        }
+    ],
+    "require": {}
+}
