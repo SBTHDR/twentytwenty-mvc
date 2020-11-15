@@ -1,5 +1,6 @@
 <?php
 
+
 $app = new Application();
 
 $app->router->get('/', function() {
