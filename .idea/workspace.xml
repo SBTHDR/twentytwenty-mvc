@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26e4093f-180a-46c3-bbd6-e2ba47906c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/Request.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Application.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dev\twentytwenty-mvc\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +52,7 @@
       <updated>1605460872660</updated>
       <workItem from="1605460874323" duration="3157000" />
       <workItem from="1605537571635" duration="4395000" />
-      <workItem from="1605620522404" duration="1868000" />
+      <workItem from="1605620522404" duration="3056000" />
     </task>
     <servers />
   </component>
@@ -70,9 +72,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="767" y="237" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605541299505" />
-    <state x="386" y="196" key="SettingsEditor" timestamp="1605539088789">
+    <state x="386" y="196" key="SettingsEditor" timestamp="1605624524720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="386" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605539088789" />
+    <state x="386" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605624524720" />
   </component>
 </project>
