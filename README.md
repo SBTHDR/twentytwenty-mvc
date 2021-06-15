@@ -18,7 +18,7 @@ TwentyTwenty-MVC is a custom MVC framework in PHP.
 ## Installation
 
 - `git clone https://github.com/SBTHDR/twentytwenty-mvc.git`
-- `twentytwenty-mvc/`
+- cd `twentytwenty-mvc/`
 - `composer install`
 
 ## License
